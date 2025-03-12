@@ -8,8 +8,8 @@ import java.util.Properties;
 public class EnvioEmailSSL {
     public static void main(String[] args) {
         //Credenciales del remitente (correo y contraseña)
-        final String username = "p11124720@gmail.com";
-        final String password = "yygr uxrm lzhu lehg";
+        final String username = "*******@gmail.com";
+        final String password = "*******************";
 
         //configuro las propiedades para smtp de gmail
         Properties props = new Properties();
@@ -32,7 +32,7 @@ public class EnvioEmailSSL {
             message.setFrom(new InternetAddress(username)); //Remitente del correo
             message.setRecipient(
                     Message.RecipientType.TO,
-                    new InternetAddress("kjayonarvaez3@gmail.com") //Destinatario
+                    new InternetAddress("************.com") //Destinatario
             );
             message.setSubject("Prueba de envio de correo con java"); //Asunto del correo
             message.setText("Hola \n\nCoreo de pueba enviado desde java"); //Contenido del correo
