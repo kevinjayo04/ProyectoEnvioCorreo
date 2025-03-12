@@ -2,7 +2,7 @@
  
 -Este proyecto es una aplicación Java que permite enviar correos electrónicos utilizando el protocolo SSL (Secure Sockets Layer) para una comunicación segura. Está diseñado como un ejemplo básico para aprender a enviar emails desde una aplicación Java.
 
-#Requisitos previos
+# Requisitos previos
 
 -Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
