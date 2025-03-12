@@ -7,6 +7,9 @@
 -Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 -Java Development Kit (JDK): Versión 8 o superior.
+
 -Maven: Para gestionar las dependencias del proyecto.
+
 -Una cuenta de correo electrónico (por ejemplo, Gmail) con acceso habilitado para aplicaciones menos seguras o un token de --aplicación si usas autenticación de dos factores.
+
 -Un entorno de desarrollo integrado (IDE) como IntelliJ IDEA
